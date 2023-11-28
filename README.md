@@ -1,1 +1,1 @@
-# Landing-page.io
+# Landing-page.io/
